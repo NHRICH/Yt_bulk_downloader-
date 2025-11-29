@@ -1,0 +1,4 @@
+customtkinter>=5.2.0
+yt-dlp>=2023.0.0
+pytest>=7.4.0
+hypothesis>=6.92.0
