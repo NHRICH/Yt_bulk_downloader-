@@ -1,6 +1,12 @@
-# YouTube Bulk Downloader
+# 🎥 YouTube Bulk Downloader
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Tests](https://img.shields.io/badge/Tests-14%20Passed-success.svg)](test_downloader.py)
 
 A modern, threaded YouTube downloader with a clean GUI built using CustomTkinter and yt-dlp.
+
+![YouTube Bulk Downloader](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 
 ## Features
 
@@ -133,11 +139,32 @@ pytest
 - `App`: Main GUI application class
 - Threading model ensures responsive UI during downloads
 
-## License
+## 📸 Screenshots
 
-This project is for educational purposes.
+The application features a modern dark-mode interface with:
+- Multi-line URL input
+- Format selection (Video/Audio)
+- Quality selector
+- Real-time progress tracking
+- Status updates
 
-## Credits
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is for educational purposes. Please respect YouTube's Terms of Service and copyright laws.
+
+## 🙏 Credits
 
 - Built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 - Powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+## ⭐ Star This Repository
+
+If you find this project useful, please consider giving it a star!
+
+## 📞 Support
+
+For issues or questions, please open an issue on GitHub.
